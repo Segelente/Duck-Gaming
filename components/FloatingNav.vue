@@ -10,7 +10,7 @@
 
     <!-- CV Icon -->
     <NuxtLink
-        to="/cv"
+        to="/mastermind"
         class="p-3 rounded-2xl bg-white/80 shadow-lg hover:scale-110 transition-transform backdrop-blur"
     >
       <Book class="w-6 h-6 text-purple-600" />
